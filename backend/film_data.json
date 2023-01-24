@@ -1,0 +1,9 @@
+[
+    {
+        "title": "",
+        "runtime": 150,
+        "genre": "Thriller",
+        "rating": 18,
+        "cast": ["John1", "John2", "John3"]
+    }
+]

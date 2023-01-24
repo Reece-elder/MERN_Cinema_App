@@ -1,0 +1,197 @@
+// films
+[
+    {
+        "title": "Doctor of Mars",
+        "runtime": 114,
+        "genre": "Sci-Fi",
+        "rating": "18",
+        "cast": ["Jeff Long", "Girogia Seo-Joon", "Humaira Steingrimur"],
+        "description": "Pellentesque pellentesque nisl at enim consectetur, et rhoncus tellus dapibus. Pellentesque pulvinar nisl sem, ac malesuada lacus sollicitudin sed. Pellentesque et enim sapien. Curabitur ut tellus sed leo scelerisque ultrices. Nam at dictum velit, et commodo quam. Phasellus eget dui et dolor pellentesque sollicitudin ut ut purus. Maecenas interdum magna eget mollis suscipit. Mauris vitae vehicula sem. In ut odio quis dui tincidunt mollis quis nec purus. Ut non tempor velit. ",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    },
+    {
+        "title": "Reptiles of the Oceans",
+        "runtime": 99,
+        "genre": "Documentary",
+        "rating": "15",
+        "cast": ["Ladislau Paulette", "Zoe Conrad", "Aamina Sofya"],
+        "description": "Morbi vitae malesuada lectus. Aliquam ultricies felis non felis condimentum, sit amet ullamcorper nunc blandit. Nullam aliquet sit amet erat placerat iaculis. Pellentesque hendrerit condimentum turpis, id vehicula eros ullamcorper sed. Sed consectetur bibendum tincidunt. Nullam et turpis nisi. Duis lobortis neque ac placerat aliquam. Vivamus lobortis vestibulum eros, id faucibus tellus molestie ut. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec pharetra, erat eget congue tempor, ipsum mauris eleifend nunc, et tempor ipsum orci a tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse consequat interdum interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac urna libero. ",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    },
+    {
+        "title": "Comics of Dreams",
+        "runtime": 112,
+        "genre": "Comedy",
+        "rating": "12",
+        "cast": ["Asnappar Kumari", "Elisheva Topusana", "Titrit Aglaia"],
+        "description": "Quisque eleifend rutrum feugiat. Nullam quis dui eu massa sodales tincidunt. Morbi non sollicitudin magna, sit amet consectetur sapien. Aliquam lacus dui, dictum id turpis in, facilisis maximus nulla. Phasellus et interdum turpis, id efficitur tellus. Quisque et pharetra neque. Praesent vitae leo diam. Proin leo tortor, euismod ut feugiat ut, mollis vitae magna. Nam rutrum sem suscipit justo tempor rhoncus. Mauris in fringilla tellus. Cras pulvinar mattis placerat. Phasellus vestibulum ex semper lorem scelerisque euismod. ",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    },
+    {
+        "title": "Monument of the Worlds",
+        "runtime": 91,
+        "genre": "Thriller",
+        "rating": "15",
+        "cast": ["Marlin Golnara", "Gobban Nikusha", "Adrianne Roddy"],
+        "description": "Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi eleifend hendrerit orci sed rhoncus. Ut in justo interdum, pharetra lorem at, euismod leo. Integer nec imperdiet enim. Aliquam velit nunc, posuere sit amet tincidunt in, sodales in felis. Vivamus nec eros quis velit facilisis posuere vitae quis erat. Pellentesque sit amet posuere mauris, ac dapibus tellus. Pellentesque rhoncus, sapien id egestas tincidunt, dolor tortor mattis neque, et dapibus tellus risus et urna. ",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    },
+    {
+        "title": "Parrot Puzzle",
+        "runtime": 130,
+        "genre": "Disaster",
+        "rating": "12",
+        "cast": ["Ovidia Ward", "Najden Fabian", "Herman Leuthar"],
+        "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec et dictum orci. Pellentesque at pellentesque mauris, eu tincidunt dolor. Curabitur dapibus accumsan tellus, dapibus convallis ex. In hac habitasse platea dictumst. Vivamus ornare est ultricies, mattis tellus a, dapibus eros. Morbi condimentum lacinia nisi vel accumsan. Vestibulum arcu metus, tristique eget interdum quis, tempus at urna. ",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    },
+    {
+        "title": "Impressed by the Maze",
+        "runtime": 108,
+        "genre": "Action",
+        "rating": "U",
+        "cast": ["Johann Kasun", "Giang Yorick", "Masashi Simo"],
+        "description": "Suspendisse in tempor massa. Morbi lacinia at nisi ac commodo. Quisque tristique eros id nisi consectetur rutrum. Praesent tempor sollicitudin semper. Nulla ut dolor sit amet velit dignissim pellentesque eget et magna. Fusce elit felis, fermentum vitae bibendum quis, sagittis sit amet mauris. Sed facilisis eleifend massa, vel lacinia tellus rutrum et. Aenean tempus lorem sit amet volutpat porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam quam tellus, vehicula a libero eget, ornare facilisis odio. Vestibulum eget convallis lorem.",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    },
+    {
+        "title": "Delaying the Fires",
+        "runtime": 98,
+        "genre": "Action",
+        "rating": "12",
+        "cast": ["Nail Afia", "Montgomery Svante", "Lodewijk Leo"],
+        "description": "Ut vel orci in velit sodales elementum. Integer sapien neque, ornare sit amet turpis eget, elementum luctus sapien. Nullam sem arcu, sagittis sit amet tortor ac, aliquam sollicitudin magna. Integer libero purus, consequat sed lectus vel, pharetra posuere leo. Maecenas nec ultrices mi. Praesent a dui vel ex commodo laoreet quis et velit. Suspendisse at interdum augue, in auctor mi. Suspendisse feugiat cursus interdum. In fringilla nisi et commodo euismod. Mauris elementum, orci non convallis pellentesque, leo metus tincidunt magna, nec ullamcorper justo erat eu lacus. ",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    },
+    {
+        "title": "Visiting my Nightmares",
+        "runtime": 108,
+        "genre": "Horror",
+        "rating": "15",
+        "cast": ["Alfred Grigorii", "Hasim Ewald", "Sylwester Chalice"],
+        "description": "Integer ut ultricies nisl. Vivamus eleifend tempus pharetra. Suspendisse consectetur sagittis auctor. Etiam quis ligula vel dui semper bibendum. Nam fringilla congue eros, non viverra felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse vehicula luctus diam. Aliquam dapibus accumsan dolor nec laoreet. Praesent ac neque ullamcorper, tincidunt lacus eu, pulvinar augue. Curabitur dui nisl, lacinia ut nulla eu, lacinia vehicula risus. ",
+        "poster_url": "https://source.unsplash.com/random/100x150"
+    }
+]
+
+// screens
+
+[
+    {
+        "screen_number": 1,
+        "total_seats": 100,
+        "luxury_seats": false,
+        "projector": "Sony VPL-GTZ380"
+    },
+    {
+        "screen_number": 2,
+        "total_seats": 80,
+        "luxury_seats": false,
+        "projector": "Sony VPL-GTZ280"
+    },
+    {
+        "screen_number": 3,
+        "total_seats": 90,
+        "luxury_seats": false,
+        "projector": "Sony VPL-PHz50"
+    },
+    {
+        "screen_number": 4,
+        "total_seats": 110,
+        "luxury_seats": false,
+        "projector": "Optoma HD28i"
+    },
+    {
+        "screen_number": 5,
+        "total_seats": 65,
+        "luxury_seats": true,
+        "projector": "Sony VPL-XW5000"
+    },
+    {
+        "screen_number": 6,
+        "total_seats": 80,
+        "luxury_seats": false,
+        "projector": "BenQ PU9730"
+    },
+    {
+        "screen_number": 7,
+        "total_seats": 78,
+        "luxury_seats": true,
+        "projector": "Optoma HD29He"
+    },
+    {
+        "screen_number": 8,
+        "total_seats": 95,
+        "luxury_seats": true,
+        "projector": "Optoma ZU1700"
+    }
+]
+// showings
+
+// customers
+
+[
+    {
+        "name": "Haya Artyom",
+        "age": 21,
+        "email": "qmacro@mac.com",
+        "password": "password123"
+    },
+    {
+        "name": "Cianan Yash",
+        "age": 35,
+        "email": "pizza@comcast.net",
+        "password": "password123"
+    },
+    {
+        "name": "Invidia Shahzad",
+        "age": 18,
+        "email": "slanglois@live.com",
+        "password": "password123"
+    },
+    {
+        "name": "Silas Femke",
+        "age": 42,
+        "email": "bruck@gmail.com",
+        "password": "password123"
+    },
+    {
+        "name": "Takondwa Erasmo",
+        "age": 51,
+        "email": "isotopian@comcast.net",
+        "password": "password123"
+    },
+    {
+        "name": "Ruadhri Alecto",
+        "age": 31,
+        "email": "vertigo@live.com",
+        "password": "password123"
+    },
+    {
+        "name": "Mattin Ethan",
+        "age": 25,
+        "email": "lipeng@hotmail.com",
+        "password": "password123"
+    },
+    {
+        "name": "Eris Grenville",
+        "age": 27,
+        "email": "tsuruta@outlook.com",
+        "password": "password123"
+    },
+    {
+        "name": "Hal Prem",
+        "age": 19,
+        "email": "sokol@verizon.net",
+        "password": "password123"
+    },
+    {
+        "name": "Pallavi Kyrillos",
+        "age": 23,
+        "email": "jschauma@yahoo.ca",
+        "password": "password123"
+    },
+
+]
+
+// tickets
