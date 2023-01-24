@@ -1,1 +1,1 @@
-# MERN_Cinema_MicroService
+# MERN_Cinema_App
